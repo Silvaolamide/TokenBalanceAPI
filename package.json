@@ -1,0 +1,20 @@
+{
+  "name": "endpoint-balance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "dotenv": "^16.0.1",
+    "koa": "^2.13.4",
+    "request": "^2.88.2",
+    "web3": "^1.7.3"
+  }
+}
