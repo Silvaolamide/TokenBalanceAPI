@@ -1,0 +1,11 @@
+
+curl http://localhost:3000/tokenBalance/any/0x20Cb006BCFd1CE0249269804761BFe20d91b7C6c/0x66021082F87ad4e57E9b681194DAB8a40382CC35
+curl http://localhost:3000/tokenBalance/any/0xA056CE37a6ecfa6aA13E7827B3d2488CEE032Fa6/0x59A6E6CbE835d1b6333D8cFa8540BD86b7a7a6fA
+curl http://localhost:3000/tokenBalance/any/0xc4b4a7facbb13886f13e36b1074a23c3c04aeafe/0x9F305DdBDf36b342E3BD119EA79AD7D796185ecc
+
+
+curl http://localhost:3000/tokenBalance/any/0xbb2b3074ffd055b77a6b99e78c820f85ab3429a0/0x20f663cea80face82acdfa3aae6862d246ce0333
+curl http://localhost:3000/tokenBalance/any/0xbb2b3074ffd055b77a6b99e78c820f85ab3429a0/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
+
+curl http://localhost:3000/tokenBalance/busd/0xbb2b3074ffd055b77a6b99e78c820f85ab3429a0/0
+curl http://localhost:3000/tokenBalance/dbal/0xbb2b3074ffd055b77a6b99e78c820f85ab3429a0/0
