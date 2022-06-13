@@ -31,8 +31,8 @@ const abiJson2 = [
 //console.log(web3.eth.getBalance("0x52bc44d5378309EE2abF1539BF71dE1b7d7bE3b5"))
 
 
-const config = require('./config.json')
-const configAbi = require('./abi/drip.json')
+const config = require('../config.json')
+const configAbi = require('../abi/drip.json')
 const cTokens = {
     busd: new web3.eth.Contract(
         erc20TokenContractAbi,

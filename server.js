@@ -1,7 +1,7 @@
 require('dotenv').config();
 const koa = require('koa');
 const app = new koa();
-const router = require('./router.js');
+const router = require('./api/router.js');
 app
     .use(router.routes())
     // .use(router.allowedMethods());
